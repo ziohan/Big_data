@@ -89,8 +89,8 @@ Big_data/
         ├── stars-data-analysis-pipeline.ipynb          
         ├── cleaned_star_data.csv
     ├── big_data                       
-        ├── ml-kepler-exoplanet-search-results-pyspark.ipynb  # TP3b
-        └── cumulative.csv                              # TP3b
+        ├── ml-kepler-exoplanet-search-results-pyspark.ipynb  
+        └── cumulative.csv                              
 ```
 
 > Adapter cette arborescence si les fichiers de données sont rangés autrement.
