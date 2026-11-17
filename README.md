@@ -85,7 +85,7 @@ Big_data/
     ├── units_data/
     ├── crash_data/
 ├── TP3_ID_28
-    ├── Small_data
+    ├── small_data
         ├── stars-data-analysis-pipeline.ipynb          
         ├── cleaned_star_data.csv
     ├── big_data                       
